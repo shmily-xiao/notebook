@@ -12,3 +12,6 @@ REDUNDANT row format
 
 # 20220304
 完成blog
+
+# 20220306
+继续 影响力的 脑图编写
