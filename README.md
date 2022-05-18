@@ -190,3 +190,6 @@ REDUNDANT row format
 
 # 20220517 
 - 树莓派
+
+# 20220518 
+- jvm
