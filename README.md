@@ -277,3 +277,6 @@ REDUNDANT row format
 
 # 20220714
 - jvm
+
+# 20220716
+- 乡土社会
