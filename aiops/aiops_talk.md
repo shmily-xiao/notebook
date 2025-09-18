@@ -52,3 +52,11 @@ AIOps在美团的探索与实践——故障发现篇：https://zhuanlan.zhihu.c
 一、浅谈智能运维AIOps概述：https://zhuanlan.zhihu.com/p/670668732
 
 提高IT运维效率，深度解读京东云AIOps落地实践（异常检测篇）： https://zhuanlan.zhihu.com/p/1908923139712357410
+
+AIOps explained: Applying AI to predict and prevent outages: https://www.youtube.com/watch?v=8kNwcrpRsGk&list=PL_4RxtD-BL5uuXsmuneBWS1oCo65Xe1On&index=16
+
+
+
+
+----
+model realignment
