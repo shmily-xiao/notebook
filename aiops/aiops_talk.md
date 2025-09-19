@@ -34,9 +34,19 @@ sunfire 的AIOps 的案例实践。
 
 
 
+1.1 什么是AIOps？
+定义解析
+AIOps，全称Artificial Intelligence for IT Operations，是Gartner在2016年提出的概念。它是一种结合大数据和机器学习功能的平台，用于增强和部分替代广泛的IT运维流程和任务。
+核心理念
+● 数据驱动: 基于海量运维数据进行智能分析
+● 自动化: 从反应式运维转向预测式和自愈式运维
+● 智能化: 利用AI算法提升运维决策的准确性和效率
+技术演进历程
+传统运维 → 自动化运维 → DevOps → AIOps
+   ↓           ↓          ↓       ↓
+人工处理    脚本自动化   流程整合  智能预测
 
-
-
+AIops 不等于大模型
 
 
 
@@ -57,7 +67,7 @@ AIOps在美团的探索与实践——故障发现篇：https://zhuanlan.zhihu.c
 AIOps explained: Applying AI to predict and prevent outages: https://www.youtube.com/watch?v=8kNwcrpRsGk&list=PL_4RxtD-BL5uuXsmuneBWS1oCo65Xe1On&index=16
 
 
-
+Ai :https://en.m.wikipedia.org/wiki/Artificial_intelligence:
 
 ----
 model realignment
